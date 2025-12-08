@@ -23,7 +23,7 @@ repository               : "academicpages/leavesthblank.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "square.jpg"
   name             : "leavesthblank"
   pronouns         : # example: "she/her"  
   bio              : "mess with some Minecraft mod and played a long while"
